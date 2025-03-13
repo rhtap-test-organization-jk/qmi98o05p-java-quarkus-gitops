@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: qmi98o05p-java-quarkus-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/qmi98o05p-java-quarkus
